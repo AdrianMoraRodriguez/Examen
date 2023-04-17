@@ -1,0 +1,1092 @@
+1. ¿Cuál de las siguientes cuestiones no establece la ingeniería de los requerimientos?
+a) Restricciones de diseño
+b) El comportamiento del sistema
+c) Las funciones del sistema
+d) Las pruebas a realizar (Verificado)
+e) La información a procesar
+2. ¿Cuál de las siguientes no es una causa de los problemas de software?
+a) Experiencia corta de la informática
+b) Las dificultades de la programación (Verificado)
+c) La rapidez de los cambios tecnológicos
+d) Las curvas de aprendizaje y experiencia de desarrollo
+e) La propia naturaleza del software
+f) Resistencia al cambio
+g) Capacidades de comunicación
+h) Problemas de gestión
+3. Un producto software contiene:
+a) Sistema software
+b) Programa (Verificadisimo)
+c) Proyecto software
+4. ¿Cuál de estas actividades no está incluida en el mantenimiento?
+a) Corrección de errores
+b) Cambios en el entorno
+c) Cambios en los requisitos
+d) Todas están incluidas (Verificado)
+5. Captura de requisitos en XP. Historias del Usuario (User.Stories) -Establezcan los requisitos del cliente -Trozos de funcionalidad que aportan valor -Se les asignan tareas de programación con un número de horas de desarrollo -Las establece el cliente -Son la base para las pruebas funcionales
+a) Verdadero (Verificado)
+b) Falso
+6. El análisis, la planificación y la especificación son tareas que definen el qué y el
+cómo del desarrollo del software
+a) Verdadero
+b) Falso Solo define el qué (Verificado)
+7. El análisis, la planificación y la especificación son tareas que definen que software
+que se desarrolla
+a) Verdadero (Verificado)
+b) Falso
+8. Diagramas UML
+-Diagramas de interacción
+-Diagrama de secuencia
+-Diagrama de colaboración
+a) Verdadero (Verificado)
+b) Falso
+9. La decisión de reutilizar componentes se basa en una evaluación de costos, entre crear una nueva solución o adaptar una existente
+a) Verdadero (Verificado)
+b) Falso
+10. La complejidad computacional se puede considerar una actividad incluida en las métricas del software
+a) Verdadero (Verificadisimo)
+b) Falso
+11. Es suficiente comenzar el desarrollo de un sistema con una descripción de objetivos generales y los detalles se irán especificando más adelante
+a) Verdadero
+b) Falso (Verificado)
+12. Uno de las ventajas/éxitos de la reutilización es que disminuye la cantidad de código a probar
+a) Verdadero
+b) Falso (Verificado)
+13. Clasificación de metodologías de desarrollo en base a su alcance: -En base a su alcance -Metodología de largo alcance -Metodología de alcance medio -Metodología de alcance corto
+a) Verdadero
+b) Falso (Verificado) 
+14. No todas las metodologías cubren las mismas actividades
+a) Verdadero (Verificado)
+b) Falso
+15. Las metodologías se desarrollan para cada una de las fases del desarrollo del producto
+a) Verdadero
+b) Falso (Verificado)
+16. MÉTRICA consta de tres grandes procesos: -Análisis de sistemas -Documentación del software -Mantenimiento de sistemas de información
+a) Verdadero
+b) Falso (Verificado)
+17. En Métrica, los participantes se clasifican en perfiles considerando funciones y responsabilidades afines y el conocimiento que necesitan respecto de la metodología. Los perfiles son:
+-Directivo
+-Jefe de proyecto
+-Cliente
+-Diseñador gráfico
+a) Verdadero
+b) Falso (Verificado)
+18. En Métrica, los participantes se clasifican en perfiles considerando funciones y
+responsabilidades afines y el conocimiento que necesitan respecto de la
+metodología. Los perfiles establecidos son:
+- Directivo
+- Jefe de Proyecto
+- Consultor
+- Analista
+a) Verdadero (Verificado)
+b) Falso
+19. En métrica, la seguridad (SEG), supone, incorporar mecanismos de seguridad
+adicional relacionados tanto con la seguridad intrínseca del sistema de información
+como por la seguridad del propio proceso de desarrollo del sistema de información
+a) Verdadero (Verificado)
+b) Falso
+20. En Métrica, el Aseguramiento de la Calidad (CAL), supone, incorporar mecanismos
+de seguridad adicionales relacionados tanto con la seguridad intrínseca del sistema
+de información como por la seguridad del propio proceso de desarrollo del sistema
+de información
+a) Verdadero
+b) Falso (Verificado)
+21. En métrica la gestión de proyectos (GP) supone, evaluar la calidad del proceso y
+del producto, reducir, eliminar y prevenir las deficiencias de los productos,
+alcanzando una razonable confianza en que las presentaciones y servicios esperados.
+a) Verdadero
+b) Falso (Verificado)
+22. MÉTRICA es una metodología para la documentación de los sistemas de
+información.
+a) Verdadero
+b) Falso (Verificado) es una metodología para la planificación, desarrollo y mantenimiento de sistemas de información.
+23. MÉTRICA consta de tres grandes procesos:
+- Planificación de Sistemas de Información (PSI)
+- Desarrollo de Sistemas de Información
+- Mantenimiento de Sistemas de Información (MSI)
+a) Verdadero (Verificado)
+b) Falso
+24. MÉTRICA es una metodología para la planificación, desarrollo y mantenimiento
+de sistemas de información.
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+25. En general podemos decir que en los sistemas informáticos el % del coste del
+software supera el % del coste del hardware
+a) Verdadero (Verificado)
+b) Falso
+26. Software es el conjunto de programas, estructuras de datos y documentos
+asociados para soportar la instalación, operación y uso de los programas
+a) Verdadero
+b) Falso (Verificadisimo)
+27. Los procesos integran métodos y herramientas, y definen la secuencia en que se
+aplican los métodos
+a) Verdadero (Verificadisimo)
+b) Falso
+28. Las herramientas son programas que mecanizan los métodos y las técnicas
+ayudan a llevar a cabo los métodos
+a) Verdadero (Verificado)
+b) Falso
+29. Entre proyectos la reutilización se aprovecha para ahorrar en análisis y
+especificación de requisitos
+a) Verdadero
+b) Falso (Verificado) Ahorrar costos y nuevas soluciones
+30. Prácticas XP. Refactoring
+-Refactorización = mejora el código
+-Intenta eliminar complejidad
+-Código duplicado a refactorización
+-Se plantea su aplicación después de implementar cada user-story
+a) Verdadero (Verificado)
+b) Falso
+31. Prácticas XP. Refactoring
+- Refactorización = Ordenar el código
+- Intentar eliminar las librerías.
+- Se plantea su aplicación antes de implementar cada user-story
+Seleccione una:
+a) Verdadero
+b) Falso (Verificadisimo)
+32. Un problema del desarrollo evolutivo es que no se sabe cuando deja de
+evolucionar el prototipo
+a) Verdadero (Verificado)
+b) Falso
+33. Diagrama de clases. Desarrollados por analistas, diseñadores y desarrolladores
+a) Verdadero (Verificadisimo)
+b) Falso
+34. Diagrama de clases de desarrollo. Desarrollados por analista, diseñadores y
+desarrolladores
+a) Verdadero (Verificado) Si contamos que el diagrama es de clases y no es un diagrama de desarrollo, los diagramas de clases de desarrollo no existen.
+b) Falso
+35. El manifiesto de las metodologías ágiles:
+Principios:
+1. La prioridad principal es satisfacer al cliente mediante tempranas y continuas
+entregas del software que le reporten un valor
+2. Dar la bienvenida a los cambios. Los AMS capturan los cambios para que los
+clientes tengan una ventaja competitiva
+3. Entregar frecuentemente software que funcione, desde un par de semanas a
+un par de meses, con el menor intervalo de tiempo posible entre una entrega
+y la siguiente
+a) Verdadero (Verificadisimo)
+b) Falso
+36. El Manifiesto de las Metodologías ágiles
+Principios
+- Los propietarios del negocio y los desarrolladores deben trabajar juntos a lo
+largo del proyecto
+- Construir proyecto en torno a individuos motivados. Darles el entorno y el
+apoyo que necesitan y confiar en ellos para conseguir el trabajo
+- El diálogo cara a cara es el método más efectivo para comunicar información
+dentro de un equipo de desarrollo
+- El software que funciona es la medida principal de progreso
+a) Verdadero (Verificado)
+b) Falso
+37. El Manifiesto de las Metodologías Ágiles:
+Principios:
+-La prioridad principal es entregar el software final
+-Los cambios no están permitidos
+a. Verdadero
+b. Falso (Verificado) (-Predisposición y respuesta al cambio-Desarrollo incremental con entregas funcionales frecuentes)
+38. La reusabilidad es la posibilidad de que cualquier módulo software pueda ser
+utilizado en múltiples entornos
+a) Verdadero
+b) Falso (Verificado) en múltiples aplicaciones
+39. Roles XP: Programador
+-Organiza y guía reuniones
+-Ayuda al cliente con las pruebas funcionales
+-Se asegura de que las pruebas funcionales se superen
+a) Verdadero
+b) Falso (Verificado) Lo hace el Jefe de Proyecto
+40. Roles XP: Programador
+- Responsable de decisiones técnicas
+- Responsable de construir el sistema
+- Sin distinción entre analistas, diseñadores o codificadores
+- En XP, los programadores diseñan, programan y realizan las pruebas
+a) Verdadero (Verificado)
+b) Falso
+41. Roles XP: Cliente (Customer)
+- Es parte del equipo
+- Determina qué construir y cuándo
+- Establece las pruebas funcionales
+a) Verdadero (Verificado)
+b) Falso
+42. Metodología o proceso de desarrollo. ¿Cuál de estas afirmaciones no es falsa?
+a) Se presenta normalmente como una serie de pasos, con técnicas y
+notaciones asociadas a cada paso. (Verificado)
+b) Proceso para la producción de software libre, empleando una colección de
+técnicas predefinidas y convenciones en las notaciones. (software libre no,
+producción organizada de software)
+c) Los pasos de la producción del software se organizan normalmente en un
+ciclo de vida consistente en solo tres fases de desarrollo. (Es en varias fases,
+falsa)
+43. ¿Cuesta más mantener el software que el desarrollo?
+a) Verdadero (Verificado) mantenimiento 3/4 y el desarrollo inicial 1/4
+b) Falso
+44. Un sistema es un modelo de componentes relacionadas entre sí
+a) Verdadero (Verificadisimo) (Porque me sale a mi del ano)
+b) Falso
+45. Los ingenieros del software deben utilizar herramientas y técnicas apropiadas al
+problema que resuelve, a las restricciones del desarrollo y recursos disponibles
+a) Verdadero (Verificado)
+b) Falso
+46. Las metodologías de desarrollo contemplan actividades técnicas o de desarrollo,
+como diseño del sistema, implementación y pruebas.
+a) Verdadero (Verificado)
+b) Falso
+47. El riesgo es proporcional a la cantidad de información disponible. Cuanto menos
+información, menor es el riesgo
+a) Verdadero
+b) Falso (Verificado) Cuanto menos información, mayor el riesgo.
+48. ¿Cuál de las siguientes afirmaciones no es un algoritmo?
+a) un proceso de ordenación
+b) un método de ordenación
+c) un modelo de ordenación (Verificado) pero tiene sentido
+d) una técnica de ordenación
+49. La gestión de la configuración, controla los cambios que se desarrollan en la etapa
+de mantenimiento
+a) Verdadero (Verificado)
+b) Falso
+50. En la etapa de diseño se tiene que descubrir la mayor cantidad posible de errores
+que se puedan reparar antes de entregar el sistema
+a) Verdadero
+b) Falso (Verificado) Es en la etapa de pruebas
+51. Razones de uso RUP:
+- RUP controla el riesgo de alcance:
+- RUP va más allá de los datos
+- RUP controla de forma temprana el riesgo técnico
+- RUP controla el riesgo financiero
+- RUP permite la agilidad de forma disciplinada
+- RUP demanda un enfoque de alta colaboración
+a) Verdadero (Verificado)
+b) Falso
+52. RUP, proceso de soporte del ciclo de vida del software. El estándar ISO/IEC12207
+identifica los procesos de soporte que pueden ser utilizados desde un proceso
+primario, o incluso desde otro proceso de soporte.
+Los procesos de soporte son:
+Aseguramiento de la calidad: Actividades empleadas para garantizar de forma objetiva
+que el producto y los procesos asociados son conformes a los requisitos documentados
+y a las planificaciones
+Verificación: Actividades empleadas para verificar el producto
+Validación: Actividades empleadas para validar el producto
+a) Verdadero (Verificado)
+b) Falso
+53. RUP Proceso de soporte de ciclo de vida del software
+Reuniones de revisión: Reuniones empleadas por las dos partes para evaluar el
+estado del producto y de las actividades
+Auditorias: Actividades para determinar que el proyecto cumple con los
+requisitos, planes y contratos
+Resolución de problemas: Actividades para analizar y resolver problemas
+relativas al proyecto, sea cual sea su fuente y naturaleza
+a) Verdadero (Verificado)
+b) Falso
+54. RUP. Procesos primarios del ciclo de vida del software (ISO/IEC12207)
+Adquisición: proceso global que sigue el adquirente para obtener el producto
+Suministro: proceso global que sigue el suministrador para proporcionar el
+producto
+Desarrollo: proceso empleado por el suministrador para el diseño, construcción y
+pruebas del producto
+a) Verdadero (Verificado)
+b) Falso
+55. RUP. Procesos de soporte del ciclo de vida del software.
+Gestión: describe las actividades de gestión de la organización, incluyendo
+también la gestión de proyectos.
+Infraestructura: actividades necesarias para que puedan realizarse otros procesos
+del ciclo de vida. Incluye entre otros el capital y el personal.
+Mejora: actividades realizadas para mejorar la capacidad del resto de procesos.
+Formación
+a) Verdadero
+b) Falso (Verificado)
+56. Diagrama de objetos
+Propósito:
+-Ilustrar las estructuras de datos/objetos del sistema
+-Especificar detalles del modelo
+a) Verdadero (Verificado)
+b) Falso
+57. Las metodologías de desarrollo contemplan actividades técnicas o de desarrollo,
+como la comercialización del proyecto
+a) Verdadero
+b) Falso (Verificado) No se encuentra en esa
+58. Metodologías ágiles de desarrollo. Centran su filosofía en la adaptabilidad al
+cambio en los requisitos
+a) Verdadero (Verificadisimo)
+b) Falso
+59. Los procesos son un conjunto de técnicas y herramientas organizadas para el
+desarrollo
+a) Verdadero
+b) Falso (Verificado) Conjunto de actividades y tareas para el desarrollo, mejora o mantenimiento de proyectos.
+60. Con el tiempo se han mejorado los problemas de capacidad de mantenimiento
+del software existente
+a) Verdadero
+b) Falso (Verificado)
+61. Certificación del software es una autorización escrita que establece que en un
+sistema de computación es seguro y está permitido operar en un entorno definido,
+produciendo información sensible
+a) Verdadero (Verificado)
+b) Falso
+62. Prácticas XP. Programación por parejas
+Todo el código se escribe en parejas
+-Se produce de mayor calidad
+-Extiende el conocimiento
+Se realiza el trabajo de 1 persona en casi la mitad de tiempo y mejor
+a) Verdadero (Verificado)
+b) Falso
+63. Diagrama de caso de uso.
+Propósitos:
+-Especificar el contexto de un sistema
+-Capturar los requerimientos del sistema
+-Validar la arquitectura del sistema
+-Dirigir la implementación del sistema y generar escenarios de testeo
+a) Verdadero (Verificadisimo)
+b) Falso
+64. Diagrama de Caso de Uso.
+Captura la funcionalidad del sistema desde el punto de vista de los desarrolladores.
+a) Verdadero
+b) Falso (Verificadisimo) (son una técnica para capturar información de qué hace oqué queremos que haga un sistema)
+65. Diagrama de caso de uso son desarrollados por los clientes
+a) Verdadero
+b) Falso (Verificado) Desarrollado por analistas y expertos
+66. Las decisiones a largo plazo se toman en la dirección con información detallada y
+específica
+a) Verdadero
+b) Falso (Verificado)
+67. El análisis y la planificación específica son tareas que definen qué software se
+desarrolla
+a) Verdadero (Verificado)
+b) Falso
+68. En el análisis se transforma los casos de uso en un modelo que describe el
+sistema
+a) Verdadero
+b) Falso (describen su funcionalidad) (Verificado)
+69. Para que un software sea correcto es necesario y suficiente que esté libre de
+fallos, que cumpla las especificaciones y...
+a) Supere las pruebas de diseño y codificación
+b) Cumpla con las expectativas de los usuarios (Verificado)
+c) Cumpla con los requisitos del usuario
+70. Metodologías ágiles de desarrollo. No es posible planificar cuando el desarrollo
+del software no es predecible
+a) Verdadero (Verificado) Responder a los cambios más que seguir estrictamente una planificación
+b) Falso
+71. Las técnicas son programas que mecanizan los métodos para dar soporte al
+desarrollo
+a) Verdadero (Verificado) Ayudan con las dificultades para llevar a cabo lo que se indica en los métodos. No se yo, preg 28.
+b) Falso
+72. El desarrollo como fase del proceso de software incluye las tareas de diseño,
+codificación, pruebas, implantación y mejoras
+a) Verdadero
+b) Falso (Verificado) Planificación, Especificación, Desarrollo, Validación,
+Evolución
+73. El software es el elemento de principal coste en el desarrollo de un sistema
+informático
+a) Verdadero (Verificado)
+b) Falso
+74. Diagrama de desarrollo o despliegue. Desarrollados por programadores junto con
+los clientes
+a) Verdadero
+b) Falso (Verificado) Por diseñadores, ingenieros de sistemas y de redes.
+75. Valores que fomenta XP
+-Reuniones de seguimiento muy frecuentes
+-Mucha documentación
+-Una sola entrega
+a) Verdadero
+b) Falso (Verificado) Realmente son: -Comunicación -Simplicidad
+-Retroalimentación -Coraje.
+76. Decisiones de negocio las toma el cliente:
+-Alcance ¿cuándo debe estar listo el producto para que sea valioso en producción?
+-Prioridad prioriza la incorporación de User.Stories
+-Composición de entregas ¿qué se necesita para que el negocio sea mejor antes de
+tener el SW?
+-Fechas de entrega fechas cuando el software funcionando causaría una gran
+diferencia
+a) Verdadero (Verificado) porque es una práctica xp
+b) Falso
+77. Decisiones de negocio las toma el analista
+-Alcance ¿cuándo debe estar listo el producto para que sea valioso en producción?
+-Prioridad prioriza la incorporación de User.Stories
+-Composición de entregas ¿qué se necesita para que el negocio sea mejor antes de
+tener el SW?
+-Fechas de entrega fechas cuando el software funcionando causaría una gran
+diferencia
+a) Verdadero
+b) Falso (Verificado) Las decisiones técnicas son los otros
+78. Las actividades del proceso del software varían dependiendo de la organización y
+del tipo de sistema a desarrollarse
+a) Verdadero (Verificado)
+b) Falso
+79. El prototipado es recomendado cuando existen especificaciones de alto riesgo
+a) Verdadero (Verificado)
+b) Falso
+80. Análisis estructurado de Tom DeMarco 1979 & diseño estructurado de Yourdon
+modelo de proceso: iterativo e incremental (híbrido)
+a) Verdadero
+b) Falso (Verificado) modelo de proceso: en cascada
+81. Mejores prácticas XP:
+El juego de la documentación, una sola entrega, diseño por capas…
+a) Verdadero
+b) Falso (Verificado) Juego de la planificación, pequeñas entregas, diseño
+simple...
+82. ¿Cuál de las siguientes problemáticas del software es falsa?
+a) Las estimación del tiempo costes y esfuerzo para el desarrollo no son precisas
+b) Las responsabilidades están diluidas
+c) La calidad del software desarrollado es cuestionable
+d) El software es difícil de mantener
+e) La producción es mayor que la demanda (Verificado)
+f) La comunicación entre desarrolladores y usuarios es deficiente
+g) La satisfacción del usuario es baja
+83. El proceso unificado de desarrollo
+-Guiado y manejado por casos de uso
+-Centrado en la arquitectura
+-Centrado en modelos
+a) Verdadero (Verificado)
+b) Falso
+84. El proceso unificado de desarrollo, es iterativo e incremental
+a) Verdadero (Verificado)
+b) Falso
+85. El Proceso Unificado de Desarrollo, no es un desarrollo basado en componentes.
+a) Verdadero
+b) Falso (Verificado) Es un desarrollo basado en componentes
+86. El Proceso Unificado de Desarrollo, utiliza UML para desarrollar los esquemas y
+diagramas de un sistema software
+Seleccione una:
+a) Verdadero
+b) Falso
+87. El Proceso Unificado de Desarrollo, es sólo iterativo
+a) Verdadero
+b) Falso (no caigo en la trampa) (Verificado) Iterativo e incremental
+88. Clasificación de las metodologías de desarrollo:
+En base a su agilidad:
+-Pesadas. Burocráticas o ingenieriles
+-Ágiles
+En base a su alcance:
+-Metodología de análisis
+-Metodología de desarrollo
+En base a la naturaleza del proyecto:
+-Metodologías orientadas al flujo de información
+-Metodologías orientadas al flujo de datos
+-Metodologías orientadas a objetos
+-Metodologías basadas en roles
+-Metodologías ágiles de desarrollo
+-Metodologías de dominio específico
+-Metodologías híbridas
+a) Verdadero (Verificadisimo)
+b) Falso
+89. Las herramientas de ingeniería del software son más importantes que el
+hardware para conseguir una buena productividad
+a) Verdadero (Verificado)
+b) Falso
+90. El ciclo de vida es lo mismo que el modelo de proceso o paradigma utilizado.
+a) Verdadero
+b) Falso (Verificadisimo) Significan cosas diferentes
+91. Mejores prácticas XP:
+-Programación en parejas
+-Propiedad colectiva
+-Integración continua
+-Semana de 40 horas
+-Cliente in situ
+-Estándares de programación
+a) Verdadero (Verificadisimo) Aunque no sale que sean las mejores, son
+prácticas
+b) Falso
+92. Las herramientas CASE (Computer Aided System Engineering): Facilita la
+realización de prototipos y el desarrollo conjunto de aplicaciones.
+a) Verdadero (Verificadisimo)
+b) Falso
+93. Análisis y diseño estructurado de Michael Jackson es un modelo de proceso: en
+cascada
+a) Verdadero (Verificado)
+b) Falso
+94. Un sistema de gestión de la calidad es el conjunto de la estructura de la
+organización, de responsabilidades, procedimientos, procesos y recursos que se
+establecen para llevar a término la gestión de calidad
+a) Verdadero (Verificado)
+b) Falso
+95. En un proyecto de software los usuarios finales son más importantes que los
+gerentes, directores y mandos intermedios
+a) Verdadero
+b) Falso (Verificadisimo) Solo lo usan al final, todos son importantes
+96. Perfil Jefe de proyecto, en esta categoría se agrupan los siguientes tipos de
+participantes
+-Jefe de proyecto
+-Responsable de implantación
+-Responsable de mantenimiento
+-Responsable de operación
+-Responsable de sistemas
+-Responsable de seguridad
+-Responsable de calidad
+a) Verdadero (Verificado)
+b) Falso
+97. Diagramas UML
+-Diagrama de comportamiento
+-Diagrama de estados
+-Diagrama de actividad
+a) Verdadero (Verificado)
+b) Falso
+98. XP, es una metodología ágil:
+-Diseñada para entornos dinámicos
+-Pensada para equipos pequeños (hasta 10 programadores)
+-Orientada fuertemente hacia la codificación
+-Énfasis en la comunicación informal, verbal
+a) Verdadero (Verificado)
+b) Falso
+99. En el modelo de desarrollo evolutivo la visibilidad del proceso es pobre y muy
+caro al producir documentación en cada iteración
+a) Verdadero (Verificado)
+b) Falso
+100. Valores que fomenta XP
+-Comunicación
+-Simplicidad
+-Retroalimentación
+-Coraje
+a) Verdadero (Verificado)
+b) Falso
+101. Diagrama de desarrollo o despliegue.
+Propósito
+-Especificar la distribución de los componentes
+-Identificar cuellos de botella
+-Evaluar el rendimiento y la carga del hardware del sistema
+-Redundancia, balance de carga, etc.
+a) Verdadero (Verificado)
+b) Falso
+102. Los Diagramas de Desarrollo o Despliegue
+● Captura la topología hardware del sistema
+● Forma parte de las especificaciones de la arquitectura del sistema
+Seleccione una
+a) Verdadero
+b) Falso
+103. El ciclo de vida es el conjunto de etapas de desarrollo del sistema y el modelo de
+proceso el orden y actividades a desarrollar
+a) Verdadero
+b) Falso (Verificado) Modelo de proceso es la estrategia de los métodos
+104. Diagrama de desarrollo. Desarrollados por diseñadores, ingenieros de sistemas e
+ingenieros de redes.
+a) Verdadero (Verificado)
+b) Falso
+105. ¿Cuál de los siguientes modelos integra etapas de proceso de software,
+desarrollo y mantenimiento?
+a) Cascada
+b) Evolutivo (Verificado)
+c) Espiral
+106. La confiabilidad es la habilidad de un programa para ejecutar un conjunto de
+funciones requeridas en cualquier entorno de computación
+a) Verdadero
+b) Falso (Verificado)
+107. El tiempo planeado para entrega de resultados puede no coincidir con el tiempo
+necesario para completar una actividad
+a) Verdadero (Verificado)
+b) Falso
+108. Las especificaciones de requisitos son un producto de trabajo interno
+a) Verdadero
+b) Falso (Verificado) Son de la entrega
+109. Añadir recursos humanos a un proyecto software retrasado lo retrasa aún más
+a) Verdadero (Verificado)
+b) Falso
+110. En un modelo de cascada la documentación y las pruebas se hacen al final
+a) Verdadero
+b) Falso (Verificado)
+111. Entre las tareas de un Ingeniero de software no está la de medir la calidad sino
+gestionarla
+a) Verdadero (Verificado)
+b) Falso un buen ingeniero del software (y buenos gestores de la ingeniería del
+software) deben medir la calidad y cómo se gestiona.
+112. En qué caso el desarrollo de la planificación de determinados proyectos no es
+suficiente utilizar estimaciones basadas en la experiencia
+a) En todos los proyectos
+b) Proyectos complejos y grandes
+c) Proyectos nuevos (Verificado)
+113. Diagramas de UML
+Diagramas de Estructurales
+- Diagrama de Casos de Uso
+- Diagrama de Clases
+- Diagrama de Objetos
+a)Verdadero (Verificado)
+b) Falso
+114. Diagramas de UML
+Diagramas de Comportamiento
+- Diagrama de Estados
+Diagrama de Actividad
+a) Verdadero (Verificado)
+b) Falso
+115. Principios:
+-La prioridad principal es entregar el software final
+-Los cambios no están permitidos
+a) Verdadero
+b) Falso (Verificado) Si tenemos en cuenta el Manifiesto de las AMs
+116. Clasificación de las metodologías de desarrollo:
+En base a la naturaleza del proyecto
+- Metodologías orientadas a base de datos
+- Metodologías orientadas a casos de uso
+a) Verdadero
+b) Falso (Verificado)
+117. Los objetos de los sistemas de información van a depender del nivel de la
+organización en el que se aplique para resolver determinados problemas
+a) Verdadero (Verificado)
+b) Falso
+118. El proceso de desarrollo es solo iterativo
+a) Verdadero
+b) Falso (Verificado) ese solo te delata
+119. Mejores prácticas XP:
+-Programación de grupos de 10
+-Propiedad de la empresa
+-Integración por etapas
+-Reuniones en la sede del cliente
+a) Verdadero
+b) Falso (Verificado)
+120. En los productos genéricos de software la organización no controla la
+especificación y en los productos personalizados es el cliente quien la controla
+a) Verdadero
+b) Falso (Verificado) productos genéricos de software la organización controla la
+especificación
+121. Cuál de los siguientes aspectos de calidad del software proporcionan
+indicadores interactivos externos y de uso
+a) Facilidades de uso (aaaah)
+b) Los Costes
+c) Los Errores y Defectos
+d) Facilidades de Mantenimiento integral (Verificado)
+122. La actividad más costosa del ciclo de vida de un producto software es el
+mantenimiento
+a) Verdadero (Verificadisimo)
+b) Falso
+123. Las metodologías de desarrollo contemplan actividades Técnicas o de Desarrollo,
+como la administración de la configuración del software
+a) Verdadero
+b) Falso (Verificado) Es del de Actividades de administración y gestión del
+proceso de desarrollo
+124. Las metodologías de desarrollo contemplan actividades Técnicas o de desarrollo,
+como obtención de requisitos y el análisis.
+a) Verdadero (Verificado)
+b) Falso
+125. Los requerimientos son las restricciones fundamentales del sistema
+a) Verdadero
+b) Falso (Verificado)
+126. Las metodologías de desarrollo contemplan actividades Técnicas o de Desarrollo
+como:
+- Comunicación
+- Administración de la fundamentación
+- Administración de la configuración del software
+a) Verdadero
+b) Falso (Verificado) Es del de Actividades de administración y gestión del
+proceso de desarrollo
+127. Las metodologías de desarrollo contemplan actividades Técnicas o de Desarrollo
+como:
+- Administración de proyecto
+- Ciclo de vida del software
+a) Verdadero
+b) Falso (Verificadisimo) Es el de Actividades de administración y gestión del proceso de desarrollo
+128. Las metodologías de desarrollo contemplan actividades Técnicas o de desarrollo
+como:
+- Comunicación
+- Administración de la fundamentación
+- Administración de la configuración del software
+a) Verdadero
+b) Falso (Verificado) Son de Actividades de administración y gestión del proceso de desarrollo
+129. El modelo de cascada es utilizado en desarrollos bien comprendidos.
+a) Verdadero (Verificado)
+b) Falso
+130. Diagrama de UML.
+- Diagrama de Implementación
+- Diagrama de Componentes
+- Diagrama de Despliegue
+a) Verdadero (Verificado)
+b) Falso
+131. Las decisiones a medio plazo son aquellas que se toman en:
+a) 1- 2 años (Verificado)
+b) Más de 4 años
+c) 3 - 4 años
+132. Captura de requisitos en XP. Historias de los Usuarios (User.Stories)
+-Establecen los requisitos del cliente
+-Trozos de funcionalidad que aportan valor
+-Se les asignan tareas de programación con un nº de horas de desarrollo
+-Las establece el cliente
+-Son la base para las pruebas funcionales
+a) Verdadero (Verificado)
+b) Falso
+133. ¿Cuáles de los siguientes aspectos de la calidad del software proporcionan
+indicadores internos, externos y en uso?
+a) Los costes INTERNO (MEDIBLE) Los errores y defectos USO (USO USUARIO) Facilidades de uso USO (USO USUARIO) Facilidades de mantenimiento integral EXTERNO (PRUEBA)
+b) Facilidades de mantenimiento integral USO (USO USUARIO) Los errores y defectos EXTERNO (PRUEBA) Facilidades de uso USO (USO USUARIO) Los costes INTERNO (MEDIBLE)
+c) Facilidades de mantenimiento integral INTERNO (MEDIBLE) Los errores y defectos USO (USO USUARIO) Facilidades de uso EXTERNO (PRUEBA) Los costes USO (USO USUARIO)
+d) Facilidades de mantenimiento integral INTERNO (MEDIBLE) Los errores y defectos EXTERNO (PRUEBA) Facilidades de uso USO (USO USUARIO) Los costes USO (USO USUARIO) (Verificado)
+134. ¿Cuales de los siguientes aspectos de calidad del software proporcionan
+indicadores internos, externos y en uso?
+a)Facilidades de mantenimiento integral: externos
+b)Los costes: internos
+c)Los errores y defectos: en uso (Verificado)
+d)Facilidades de uso: externos
+135. El modelo de proceso no se puede seleccionar según la naturaleza del proyecto.
+a) Verdadero
+b) Falso (Verificadisimo)
+136. Cuáles de las siguientes medidas de calidad del software proporcionan
+indicadores útiles directos (medidos directamente) [directos/indirectos]
+a) Los errores y defectos DIRECTOS Los costes DIRECTOS Facilidades de uso INDIRECTO Facilidades de mantenimiento integral INDIRECTO (Verificado)
+b) Los errores y defectos INDIRECTO Los costes DIRECTOS Facilidades de uso INDIRECTO Facilidades de mantenimiento integral DIRECTOS
+c) Los errores y defectos DIRECTOS Los costes INDIRECTO Facilidades de uso DIRECTOS Facilidades de mantenimiento integral INDIRECTO
+d) Los errores y defectos INDIRECTO Los costes INDIRECTO Facilidades de uso DIRECTOS Facilidades de mantenimiento integral DIRECTOS
+137. Establecer un estándar es proporcionar un marco teórico para la disciplina del
+software.
+a) Verdadero
+b) Falso (Verificado)
+138. Un sistema de información necesita estar basado en la automatización y la
+informática.
+a) Verdadero
+b) Falso (Verificadisimo)
+139. Reunión diaria “Stand-up Meeting”
+Todo el equipo
+- Problemas
+- Solutions
+De pie en un círculo
+- Evitar discusiones largas
+- Sin conversaciones separadas
+a) Verdadero (Verificado)
+b) Falso
+140. El sistema solo se puede probar hasta que se haya implementado.
+a) Verdadero
+b) Falso (Verificado) Solo hasta que el sistema se ha producido se puede probar
+141. La dirección estratégica suele tomar decisiones que están poco formalizadas y
+subjetivas.
+a) Verdadero (Verificado)
+b) Falso 
+142. Con el tiempo ha aumentado la incapacidad de atender a la demanda.
+a) Verdadero
+b) Falso (Verificado)
+143. Un sistema de información necesita estar R en la automatización y la
+informática:
+a) Verdadero
+b) Falso (Verificado)
+144. El proceso unificado no se repite a lo largo de una serie de ciclos.
+Seleccione una:
+a) Verdadero
+b) Falso (Verificadisimo)
+145. Metodologías Ágiles de Desarrollo, se basan en la creencia de que las
+metodologías ingenieriles no son válidas para el desarrollo de software.
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+146. Metodologías Ágiles de Desarrollo, como Métrica, se basan en la creencia de
+que las metodologías ingenieriles no son válidas para el desarrollo de software
+a) Verdadero
+b) Falso (Verificado)
+147. Las actividades de administración y gestión del proceso de desarrollo constan de
+etapas como
+● Diseño detallado
+● Implementación
+● Pruebas
+Seleccione una:
+a) Verdadero
+b) Falso (Verificadisimo)
+148. Las actividades de administración y gestión del proceso de desarrollo constan de
+etapas como:
+● Obtención de requisitos
+● Análisis
+● Diseño del sistema
+a) Verdadero
+b) Falso (Verificado)
+149. Para el desarrollo de la planificación de un proyecto se utilizan estimaciones
+obtenidas de métricas de proyectos anteriores.
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+150. El riesgo es proporcional a la calidad de la información disponible. Cuanto
+menos información, menor el riesgo.
+Seleccione una:
+a) Verdadero
+b) Falso (Verificadisimo)
+151. La ingeniería del software son las teorías, métodos y herramientas que se deben
+utilizar en el desarrollo del software
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+152. En el modelo de desarrollo evolutivo la visibilidad del proceso es pobre y muy
+caro al producir documentos en cada iteración
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+153. En las Metodologías Ágiles se valora poder responder a los cambios más que
+seguir estrictamente una planificación.
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+154. En las Metodologías Ágiles se valora la ejecución del contrato con el cliente.
+a) Verdadero
+b) Falso (Verificado)
+155. RUP identifica los siguientes procesos de soporte del ciclo de vida del software:
+-GESTIÓN : Describe las actividades de gestión de la organización, incluyendo también
+la gestión de proyectos.
+-INFRAESTRUCTURA: Actividades necesarias para que puedan realizarse otros procesos
+del ciclo de vida. Incluye entre otros el capital y el personal.
+-MEJORA: Actividades realizadas para mejorar la capacidad del resto de procesos.
+FORMACIÓN
+Seleccione una:
+a) Verdadero
+b) Falso (Verificadisimo)
+156. Diagramas de UML. Diagramas de Implementación
+- Diagrama de Componentes
+- Diagrama de Despliegue
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+157. El proceso unificado se repite a lo largo de una serie de ciclos que concluye con
+una versión del producto.
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+158. La definición de objetos e interfaces de subsistemas es una actividad del diseño
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+159. El desarrollo como fase del proceso software incluye las tareas de diseño,
+codificación, pruebas, implantación y mejoras.
+Seleccione una:
+a) Verdadero
+b) Falso (Verificadisimo)
+160. Un sistema de información modular significa que está integrado peros sus partes
+son independientes
+a) Verdadero (Verificadisimo)
+b) Falso
+161. Cada participante de un proyecto tiene sus propias responsabilidades y juega un
+solo rol o papel en el proyecto
+Seleccione una:
+a) Verdadero
+b) Falso (Verificadisimo)
+162. Los estándares extraen modelos de cómo ejecutar procesos de las mejores
+prácticas
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+163. Entre las mejores prácticas XP se encuentran:
+-Programación en parejas
+-Propiedad colectiva
+-Integración continua
+-Semana de 40 horas
+-Cliente in situ
+-Estándares de programación
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+164. Entre las mejores prácticas XP se encuentran:
+- El juego de la documentación
+- Una sola entrega
+- Diseño por capas
+a) Verdadero
+b) Falso (Verificado)
+165. Entre las mejores prácticas que propone XP están:
+-El juego de la planificación
+-Entregas pequeñas
+-Metáfora
+-Diseño simple
+-Pruebas
+-Refactoring
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+166. La equifinalidad es la característica la cual los sistemas logran el objetivo de
+múltiples formas
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+167. IBM desarrollo METRICA 3.
+Seleccione una:
+a) Verdadero
+b) Falso (Verificadisimo)
+168. La ingeniería del software concierne a todos los aspectos del desarrollo de
+métodos y procesos, del hardware, software y comunicaciones
+Seleccione una:
+a) Verdadero
+b) Falso (Verificadisimo)
+169. ¿Cual de las siguientes no es una causa de los problemas del software?
+Seleccione una:
+a) Problemas de gestión
+b) Experiencia corta de la informática
+c) Las curva de aprendizaje y experiencia de desarrolladores
+d) Planificaciones optimistas, plantillas poco cualificadas...
+e) Resistencia al cambio
+f) La rapidez de los cambios tecnológicos
+g) El esfuerzo en el análisis y el diseño (Verificado)
+170. Un sistema informático es un sistema basado en computadoras pero no un
+sistema de información
+Seleccione una:
+a) Verdadero
+b) Falso (Verificadisimo)
+171. Existen modelos que integran etapas del proceso de software, por ejemplo
+desarrollo y mantenimiento
+Seleccione una:
+a) Verdadero (Verificadisimo)
+b) Falso
+172. Diagrama de Clases.
+Propósito:
+● Nombrar y modelar los componentes del sistema.
+● Especificar las colaboraciones
+● Especificar los esquemas lógicos de las estructuras de datos.
+Seleccionar una:
+a) Verdadero (Verificadisimo)
+b) Falso
+173. Cuál de los siguientes aspectos de calidad del software proporcionan
+indicadores internos, externos y de uso
+a) Los Costes (INTERNO) Los Errores y Defectos (USO) Facilidades de Mantenimiento integral (EXTERNO) Facilidades de uso (USO) (Verificado)
+b) Facilidades de uso (USO) Los Costes (USO) Los Errores y Defectos (INTERNO) Facilidades de Mantenimiento integral (EXTERNO)
+c) Facilidades de uso (INTERNO) Los Costes (USO) Los Errores y Defectos (USO) Facilidades de Mantenimiento integral (EXTERNO)
+d) Facilidades de uso (EXTERNO) Los Costes (USO) Los Errores y Defectos (INTERNO) Facilidades de Mantenimiento integral (USO)
+174. Con tareas de ingeniería de requerimientos, ¿se puede saber cómo interactúan
+los usuarios finales con el software?
+a) Verdadero (Verificado)
+b) Falso
+175. La robótica (los proyectos que se trabajan en esta área) pueden ser
+consideraciones como software de ingeniería y ciencias.
+a) Verdadero
+b) Falso
+176. El diseño dentro del XP sigue rigurosamente el principio MS (mantenerlo
+sencillo).
+a) Verdadero (Verificado) Se diseña “la cosa más simple que pueda funcionar”
+b) Falso
+177. Las actividades sombrilla son complementadas por actividades estructurales del
+proceso de software.
+a) Verdadero (Verificado)
+b) Falso
+178. Si los clientes y usuarios piden más de lo que se puede alcanzar se debe llegar a
+una tarea de:
+a) validación
+b) indagación
+c) negociación (Verificado)
+179. Para obtención de requerimientos podemos usar prototipos.
+a) Verdadero
+b) Falso
+180. La primera entrega que se realiza en los procesos incrementales es el producto
+final que se va a entregar con un porcentaje mínimo de actualización.
+a) Verdadero (Verificado)
+b) Falso
+181. El producto final de la ingeniería de requisitos es obtener un modelo de
+especificación de requisitos.
+a) Verdadero (Verificado)
+b) Falso
+182. Existen 4 etapas en la esencia de la práctica de la ingeniería del software para
+llegar a la solución. La aplicación de las mismas puede variar en su orden.
+a) Verdadero (Verificado)
+b) Falso
+183. La prioridad de los requerimientos es presentada por parte del cliente.
+a) Verdadero
+b) Falso (Verificado)
+184. La validación de los requisitos se lo hace a la especificación de los mismos en fin
+de que estos contemplen ciertos atributos de calidad.
+a) Verdadero (Verificado)
+b) Falso
+185. Las herramientas de administración de requerimientos permiten realizar una
+efectiva negociación entre todos los participantes del proyecto.
+a) Verdadero
+b) Falso (Verificado)
+186. El costo del cambio con procesos convencionales, de acuerdo al avance de
+programación, es menor al costo del cambio con el uso de procesos ágiles.
+a) Verdadero
+b) Falso (Verificado)
+187. La forma de organizar las actividades estructurales dentro del modelo general
+del proceso de software se conoce como flujo del proceso.
+a) Verdadero (Verificado)
+b) Falso
+188. El número de actividades estructurales dentro del modelo general de proceso se
+encuentra definida y no permite realizar una variación.
+a) Verdadero
+b) Falso (Verificado)
+189. Si un cliente nos pide modificar cierta funcionalidad de un software, será
+conveniente utilizar un modelo de cascada para esta implementación.
+a) Verdadero
+b) Falso (Verificado)
+190. Un diagrama de estados se encuentra dentro de los modelos de requerimientos
+en sus elementos basados en escenarios.
+a) Verdadero (Verificado)
+b) Falso
+191. Se puede decir que el software es un proceso dual, o sea que primeramente es
+un producto y que luego es una herramienta para entregar otro producto.
+a) Verdadero
+b) Falso (Verificado)
+192. La obtención de un documento escrito donde se haga constar los requerimientos
+está dentro de la tarea de:
+a) concepción
+b) especificación (Verificado)
+c) elaboración
+193. La ingeniería del software es una tecnología con varias capas.
+a) Verdadero (Verificado)
+b) Falso
+194. Cuando un software va cambiando, es decir, cuando va produciendo versiones
+más complejas del software por cada entrega, se puede decir que se está trabajando
+en base a un modelo incremental.
+a) Verdadero (Verificado)
+b) Falso
+195. En un software bancario el proceso de realizar transacciones lo realizamos a
+través de dispositivos táctiles, ¿este sería un requerimiento esperado?
+a) Verdadero (Verificado)
+b) Falso
+196. El prototipo sirve como la primera versión del sistema.
+a) Verdadero
+b) Falso (Verificado)
+197. Existen problemas en la obtención de requerimientos debido a que estos
+cambian, este problema se puede superar con una buena negociación de
+requerimientos.
+a) Verdadero (Verificado)
+b) Falso
+198. En los procesos ágiles, las personas y el equipo de trabajo deben adaptarse a las
+necesidades del proceso.
+a) Verdadero
+b) Falso (Verificado)
+199. “Las primeras conversaciones con los gerentes de una organización para el
+desarrollo del software donde se propone una arquitectura aproximada de lo que se
+va a desarrollar”, en RUP se refiere a la fase de inicio.
+a) Verdadero (Verificado)
+b) Falso
+200. Cree que la siguiente afirmación es una preocupación sobre el desarrollo de
+software. ¿El control de avance del proyecto se ha vuelto muy complicado?
+a) Verdadero (Verificado)
+b) Falso
+201. La ingeniería de requisitos está orientada a trabajar de una forma conjunta entre
+las personas involucradas en el proyecto antes de empezar el desarrollo del mismo.
+a) Verdadero (Verificado)
+b) Falso
+202. Cuando se ha resuelto un problema, los elementos que se obtuvieron ¿pueden
+ser reutilizados en otros proyectos similares?
+a) Verdadero (Verificado)
+b) Falso
+203. Los mitos del software que se presentan han desencadenado que
+administradores y trabajadores se equivoquen aun cuando el conocimiento del
+software avanza.
+a) Verdadero (Verificado)
+b) Falso
+204. Los requerimientos se realizan a fin de llegar a la construcción del sistema.
+a) Verdadero
+b) Falso (Verificado)
+205. Un requerimiento de confiabilidad del sistema que, en muchos casos, no es
+mencionado por el cliente se categoriza como:
+a) esperado (Verificado)
+b) normal
+c) emocionante
+206. Si tenemos un proyecto de software y un proyecto de manufacturación
+podemos realizar una administración de los mismos, de igual manera.
+a) Verdadero
+b) Falso (Verificado)
+207. Cada proyecto XP es guiado por una metáfora global
+a) Verdadero (Verificado)
+b) Falso
+208. Las pruebas de integración se realizan en la implantación del sistema
+a) Verdadero
+b) Falso (Verificado)
+209. ¿Cuáles de las siguientes pueden ser las dificultades de la confiabilidad del
+software?
+Seleccione una o más de una:
+a) Ambiente variable al que hay que adaptarse (Verificado)
+b) La complejidad del software
+c) Especificaciones inseguras incorrectas e incompletas. (Verificado)
+210. Los Autores de Metodología RUP (Rational Unified Process) son Booch,
+Rumbaugh y Jacobson
+a) Verdadero (Verificado)
+b) Falso
+211. El proceso software es el marco de trabajo de las actividades y tareas que se
+requieren para la gestión de la calidad
+Seleccione una:
+a) Verdadero
+b) Falso (Verificado)
+212. Diagrama de componentes. Desarrollados por los clientes.
+a) Verdadero
+b) Falso (Verificado)
+213. Con el tiempo ha aumentado la incapacidad de atender la demanda
+a) Verdadero (Verificado)
+b) Falso
+214. Los modelo son útiles para manejar y visualizar sistemas grandes y mediano
+a) Verdadero (Verificado)
+b) Falso
+215. Un sistema es efectivo si utiliza de forma óptima los recurso disponibles
+a) Verdadero 
+b) Falso (Verificado)
+216. Para sistemas grande el uso del desarrollo evolutivo no es adecuado
+a) Verdadero (Verificado)
+b) Falso
