@@ -28,7 +28,7 @@ b) Falso
 6. El análisis, la planificación y la especificación son tareas que definen el qué y el
 cómo del desarrollo del software
 a) Verdadero
-b) Falso Solo define el qué (Verificado)
+b) Falso (Verificado)
 7. El análisis, la planificación y la especificación son tareas que definen que software
 que se desarrolla
 a) Verdadero (Verificado)
@@ -129,7 +129,7 @@ b) Falso
 29. Entre proyectos la reutilización se aprovecha para ahorrar en análisis y
 especificación de requisitos
 a) Verdadero
-b) Falso (Verificado) Ahorrar costos y nuevas soluciones
+b) Falso (Verificado)
 30. Prácticas XP. Refactoring
 -Refactorización = mejora el código
 -Intenta eliminar complejidad
@@ -151,9 +151,8 @@ b) Falso
 33. Diagrama de clases. Desarrollados por analistas, diseñadores y desarrolladores
 a) Verdadero (Verificadisimo)
 b) Falso
-34. Diagrama de clases de desarrollo. Desarrollados por analista, diseñadores y
-desarrolladores
-a) Verdadero (Verificado) Si contamos que el diagrama es de clases y no es un diagrama de desarrollo, los diagramas de clases de desarrollo no existen.
+34. Diagrama de clases de desarrollo. Desarrollados por analista, diseñadores y desarrolladores
+a) Verdadero (Verificado)
 b) Falso
 35. El manifiesto de las metodologías ágiles:
 Principios:
@@ -181,18 +180,18 @@ b) Falso
 Principios:
 -La prioridad principal es entregar el software final
 -Los cambios no están permitidos
-a. Verdadero
-b. Falso (Verificado) (-Predisposición y respuesta al cambio-Desarrollo incremental con entregas funcionales frecuentes)
+a) Verdadero
+b) Falso (Verificado)
 38. La reusabilidad es la posibilidad de que cualquier módulo software pueda ser
 utilizado en múltiples entornos
 a) Verdadero
-b) Falso (Verificado) en múltiples aplicaciones
+b) Falso (Verificado)
 39. Roles XP: Programador
 -Organiza y guía reuniones
 -Ayuda al cliente con las pruebas funcionales
 -Se asegura de que las pruebas funcionales se superen
 a) Verdadero
-b) Falso (Verificado) Lo hace el Jefe de Proyecto
+b) Falso (Verificado)
 40. Roles XP: Programador
 - Responsable de decisiones técnicas
 - Responsable de construir el sistema
@@ -207,19 +206,14 @@ b) Falso
 a) Verdadero (Verificado)
 b) Falso
 42. Metodología o proceso de desarrollo. ¿Cuál de estas afirmaciones no es falsa?
-a) Se presenta normalmente como una serie de pasos, con técnicas y
-notaciones asociadas a cada paso. (Verificado)
-b) Proceso para la producción de software libre, empleando una colección de
-técnicas predefinidas y convenciones en las notaciones. (software libre no,
-producción organizada de software)
-c) Los pasos de la producción del software se organizan normalmente en un
-ciclo de vida consistente en solo tres fases de desarrollo. (Es en varias fases,
-falsa)
+a) Se presenta normalmente como una serie de pasos, con técnicas y notaciones asociadas a cada paso. (Verificado)
+b) Proceso para la producción de software libre, empleando una colección de técnicas predefinidas y convenciones en las notaciones.
+c) Los pasos de la producción del software se organizan normalmente en un ciclo de vida consistente en solo tres fases de desarrollo.
 43. ¿Cuesta más mantener el software que el desarrollo?
-a) Verdadero (Verificado) mantenimiento 3/4 y el desarrollo inicial 1/4
+a) Verdadero (Verificado)
 b) Falso
 44. Un sistema es un modelo de componentes relacionadas entre sí
-a) Verdadero (Verificadisimo) (Porque me sale a mi del ano)
+a) Verdadero (Verificadisimo)
 b) Falso
 45. Los ingenieros del software deben utilizar herramientas y técnicas apropiadas al
 problema que resuelve, a las restricciones del desarrollo y recursos disponibles
@@ -232,7 +226,7 @@ b) Falso
 47. El riesgo es proporcional a la cantidad de información disponible. Cuanto menos
 información, menor es el riesgo
 a) Verdadero
-b) Falso (Verificado) Cuanto menos información, mayor el riesgo.
+b) Falso (Verificado)
 48. ¿Cuál de las siguientes afirmaciones no es un algoritmo?
 a) un proceso de ordenación
 b) un método de ordenación
@@ -418,8 +412,7 @@ b) Falso (Verificado) modelo de proceso: en cascada
 81. Mejores prácticas XP:
 El juego de la documentación, una sola entrega, diseño por capas…
 a) Verdadero
-b) Falso (Verificado) Juego de la planificación, pequeñas entregas, diseño
-simple...
+b) Falso (Verificado)
 82. ¿Cuál de las siguientes problemáticas del software es falsa?
 a) Las estimación del tiempo costes y esfuerzo para el desarrollo no son precisas
 b) Las responsabilidades están diluidas
@@ -471,7 +464,7 @@ a) Verdadero (Verificado)
 b) Falso
 90. El ciclo de vida es lo mismo que el modelo de proceso o paradigma utilizado.
 a) Verdadero
-b) Falso (Verificadisimo) Significan cosas diferentes
+b) Falso (Verificadisimo)
 91. Mejores prácticas XP:
 -Programación en parejas
 -Propiedad colectiva
@@ -644,8 +637,7 @@ b) Falso
 123. Las metodologías de desarrollo contemplan actividades Técnicas o de Desarrollo,
 como la administración de la configuración del software
 a) Verdadero
-b) Falso (Verificado) Es del de Actividades de administración y gestión del
-proceso de desarrollo
+b) Falso (Verificado)
 124. Las metodologías de desarrollo contemplan actividades Técnicas o de desarrollo,
 como obtención de requisitos y el análisis.
 a) Verdadero (Verificado)

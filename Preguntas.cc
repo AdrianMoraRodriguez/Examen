@@ -16,6 +16,8 @@
 
 using namespace std;
 
+double exam_rest = 0;
+
 struct Question {
     string text;
     vector<string> options;
@@ -108,11 +110,12 @@ void show_result(const Question &question, char answer) {
         bad++;
     }
 }
-int n;
-int restar = 0;
+double n;
+double restar = 0;
+bool exam;
 // Función que muestra el resultado de todas las preguntas
 void show_results(const vector<Question> &questions) {
-    int correct = 0;
+    double correct = 0;
     for (int i = 0; i < questions.size(); i++) {
         if (questions[i].is_verified) {
             if (check_answer(questions[i], questions[i].answer)) {
@@ -122,7 +125,13 @@ void show_results(const vector<Question> &questions) {
     }
     cout << "Has acertado " << correct << " de " << n << endl;
     //si la nota es menor que 5, ponla en rojo si es igual o mayor ponla en verde
-    if ((correct - restar) * 10 / n < 5) {
+    if (exam) {
+      if (10 - exam_rest < 5) {
+        cout << "\033[1;31mNota final " <<  10 - exam_rest << "\033[0m" << endl;
+      } else {
+        cout << "\033[1;32mNota final " << 10 - exam_rest << "\033[0m" << endl;
+      }
+    } else if ((correct - restar) * 10 / n < 5) {
         cout << "\033[1;31mNota final " << (correct - restar) * 10 / n << "\033[0m" << endl;
     } else {
         cout << "\033[1;32mNota final " << (correct - restar) * 10 / n << "\033[0m" << endl;
@@ -139,6 +148,27 @@ int main() {
     vector<Question> questions;
     read_questions(questions, "preguntas.txt");
     shuffle_questions(questions);
+    cout << "Quiere entrar en modo examen FIS? (1:Sí, 0:No): ";
+    cin >> exam;
+    if (exam) {
+        system("clear");
+        n = 50;
+      for (int i = 0; i < n; i++) {
+        std::cout << "Pregunta " << i +1 << " de " << n << "\n";
+        show_question(questions[i]);
+        std::cout << "Respuesta: ";
+        char answer;
+        cin >> answer;
+        if (answer == questions[i].answer) {
+            questions[i].is_verified = true;
+        } else {
+            questions[i].is_verified = false;
+            exam_rest += 0.33;
+        }
+      }
+      show_results(questions); 
+      return 0;
+    }
     cout << "Cuantas preguntas quieres contestar? ";
     cin >> n;
     cout << "Quieres penalizar las preguntas incorrectas? (s/n) ";
@@ -149,7 +179,9 @@ int main() {
         cout << "Cuantas preguntas incorrectas quieres permitirte? ";
         cin >> bad_allowed;
     }
+    system("clear");
     for (int i = 0; i < n; i++) {
+        std::cout << "Pregunta " << i +1 << " de " << n << "\n";
         show_question(questions[i]);
         std::cout << "Respuesta: ";
         char answer;
