@@ -126,10 +126,10 @@ void show_results(const vector<Question> &questions) {
     cout << "Has acertado " << correct << " de " << n << endl;
     //si la nota es menor que 5, ponla en rojo si es igual o mayor ponla en verde
     if (exam) {
-      if (10 - exam_rest < 5) {
-        cout << "\033[1;31mNota final " <<  10 - exam_rest << "\033[0m" << endl;
+      if (exam_rest > 17) {
+        cout << "\033[1;31mNo llega al mínimo de preguntas, usted ha tenido " <<  correct << " preguntas correctas, se esperaban 33" <<"\033[0m" << endl;
       } else {
-        cout << "\033[1;32mNota final " << 10 - exam_rest << "\033[0m" << endl;
+        cout << "\033[1;32mNota final " << correct / n << "\033[0m" << endl;
       }
     } else if ((correct - restar) * 10 / n < 5) {
         cout << "\033[1;31mNota final " << (correct - restar) * 10 / n << "\033[0m" << endl;
@@ -163,7 +163,7 @@ int main() {
             questions[i].is_verified = true;
         } else {
             questions[i].is_verified = false;
-            exam_rest += 0.33;
+            exam_rest += 1;
         }
       }
       show_results(questions); 
