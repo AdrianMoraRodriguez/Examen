@@ -43,6 +43,9 @@ void read_questions(vector<Question> &questions, const string &filename) {
             if (is_first) {
                 is_first = false;
             } else {
+                if (question.answer == ' ') {
+                    std::cout << "La pregunta: " << question.text << "No tiene respuesta definida\n";
+                }
                 questions.push_back(question);
                 question.text = "";
                 question.options.clear();

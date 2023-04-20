@@ -98,7 +98,7 @@ b) Falso (Verificado)
 22. MÉTRICA es una metodología para la documentación de los sistemas de
 información.
 a) Verdadero
-b) Falso (Verificado) es una metodología para la planificación, desarrollo y mantenimiento de sistemas de información.
+b) Falso (Verificado) 
 23. MÉTRICA consta de tres grandes procesos:
 - Planificación de Sistemas de Información (PSI)
 - Desarrollo de Sistemas de Información
@@ -239,7 +239,7 @@ b) Falso
 50. En la etapa de diseño se tiene que descubrir la mayor cantidad posible de errores
 que se puedan reparar antes de entregar el sistema
 a) Verdadero
-b) Falso (Verificado) Es en la etapa de pruebas
+b) Falso (Verificado)
 51. Razones de uso RUP:
 - RUP controla el riesgo de alcance:
 - RUP va más allá de los datos
@@ -303,7 +303,7 @@ b) Falso
 59. Los procesos son un conjunto de técnicas y herramientas organizadas para el
 desarrollo
 a) Verdadero
-b) Falso (Verificado) Conjunto de actividades y tareas para el desarrollo, mejora o mantenimiento de proyectos.
+b) Falso (Verificado)
 60. Con el tiempo se han mejorado los problemas de capacidad de mantenimiento
 del software existente
 a) Verdadero
@@ -435,7 +435,7 @@ b) Falso (Verificado) Es un desarrollo basado en componentes
 86. El Proceso Unificado de Desarrollo, utiliza UML para desarrollar los esquemas y
 diagramas de un sistema software
 Seleccione una:
-a) Verdadero
+a) Verdadero (Verificado)
 b) Falso
 87. El Proceso Unificado de Desarrollo, es sólo iterativo
 a) Verdadero
@@ -490,7 +490,7 @@ b) Falso
 95. En un proyecto de software los usuarios finales son más importantes que los
 gerentes, directores y mandos intermedios
 a) Verdadero
-b) Falso (Verificadisimo) Solo lo usan al final, todos son importantes
+b) Falso (Verificadisimo)
 96. Perfil Jefe de proyecto, en esta categoría se agrupan los siguientes tipos de
 participantes
 -Jefe de proyecto
@@ -563,7 +563,7 @@ a) Verdadero (Verificado)
 b) Falso
 108. Las especificaciones de requisitos son un producto de trabajo interno
 a) Verdadero
-b) Falso (Verificado) Son de la entrega
+b) Falso (Verificado)
 109. Añadir recursos humanos a un proyecto software retrasado lo retrasa aún más
 a) Verdadero (Verificado)
 b) Falso
@@ -573,8 +573,7 @@ b) Falso (Verificado)
 111. Entre las tareas de un Ingeniero de software no está la de medir la calidad sino
 gestionarla
 a) Verdadero (Verificado)
-b) Falso un buen ingeniero del software (y buenos gestores de la ingeniería del
-software) deben medir la calidad y cómo se gestiona.
+b) Falso
 112. En qué caso el desarrollo de la planificación de determinados proyectos no es
 suficiente utilizar estimaciones basadas en la experiencia
 a) En todos los proyectos
@@ -621,8 +620,7 @@ b) Falso (Verificado)
 120. En los productos genéricos de software la organización no controla la
 especificación y en los productos personalizados es el cliente quien la controla
 a) Verdadero
-b) Falso (Verificado) productos genéricos de software la organización controla la
-especificación
+b) Falso (Verificado) 
 121. Cuál de los siguientes aspectos de calidad del software proporcionan
 indicadores interactivos externos y de uso
 a) Facilidades de uso
@@ -918,9 +916,8 @@ b) Falso
 consideraciones como software de ingeniería y ciencias.
 a) Verdadero
 b) Falso (Verificado)
-176. El diseño dentro del XP sigue rigurosamente el principio MS (mantenerlo
-sencillo).
-a) Verdadero (Verificado) Se diseña “la cosa más simple que pueda funcionar”
+176. El diseño dentro del XP sigue rigurosamente el principio MS (mantenerlo sencillo).
+a) Verdadero (Verificado)
 b) Falso
 177. Las actividades sombrilla son complementadas por actividades estructurales del
 proceso de software.
@@ -932,7 +929,7 @@ a) validación
 b) indagación
 c) negociación (Verificado)
 179. Para obtención de requerimientos podemos usar prototipos.
-a) Verdadero
+a) Verdadero (Verificado)
 b) Falso
 180. La primera entrega que se realiza en los procesos incrementales es el producto
 final que se va a entregar con un porcentaje mínimo de actualización.
