@@ -230,7 +230,7 @@ b) Falso (Verificado)
 48. ¿Cuál de las siguientes afirmaciones no es un algoritmo?
 a) un proceso de ordenación
 b) un método de ordenación
-c) un modelo de ordenación (Verificado) pero tiene sentido
+c) un modelo de ordenación (Verificado)
 d) una técnica de ordenación
 49. La gestión de la configuración, controla los cambios que se desarrollan en la etapa
 de mantenimiento
@@ -295,7 +295,7 @@ b) Falso
 57. Las metodologías de desarrollo contemplan actividades técnicas o de desarrollo,
 como la comercialización del proyecto
 a) Verdadero
-b) Falso (Verificado) No se encuentra en esa
+b) Falso (Verificado)
 58. Metodologías ágiles de desarrollo. Centran su filosofía en la adaptabilidad al
 cambio en los requisitos
 a) Verdadero (Verificadisimo)
@@ -331,7 +331,7 @@ b) Falso
 64. Diagrama de Caso de Uso.
 Captura la funcionalidad del sistema desde el punto de vista de los desarrolladores.
 a) Verdadero
-b) Falso (Verificadisimo) (son una técnica para capturar información de qué hace oqué queremos que haga un sistema)
+b) Falso (Verificadisimo) 
 65. Diagrama de caso de uso son desarrollados por los clientes
 a) Verdadero
 b) Falso (Verificado) Desarrollado por analistas y expertos
@@ -346,7 +346,7 @@ b) Falso
 68. En el análisis se transforma los casos de uso en un modelo que describe el
 sistema
 a) Verdadero
-b) Falso (describen su funcionalidad) (Verificado)
+b) Falso (Verificado)
 69. Para que un software sea correcto es necesario y suficiente que esté libre de
 fallos, que cumpla las especificaciones y...
 a) Supere las pruebas de diseño y codificación
@@ -358,7 +358,7 @@ a) Verdadero (Verificado) Responder a los cambios más que seguir estrictamente 
 b) Falso
 71. Las técnicas son programas que mecanizan los métodos para dar soporte al
 desarrollo
-a) Verdadero (Verificado) Ayudan con las dificultades para llevar a cabo lo que se indica en los métodos. No se yo, preg 28.
+a) Verdadero (Verificado)
 b) Falso
 72. El desarrollo como fase del proceso de software incluye las tareas de diseño,
 codificación, pruebas, implantación y mejoras
@@ -372,14 +372,13 @@ b) Falso
 74. Diagrama de desarrollo o despliegue. Desarrollados por programadores junto con
 los clientes
 a) Verdadero
-b) Falso (Verificado) Por diseñadores, ingenieros de sistemas y de redes.
+b) Falso (Verificado)
 75. Valores que fomenta XP
 -Reuniones de seguimiento muy frecuentes
 -Mucha documentación
 -Una sola entrega
 a) Verdadero
-b) Falso (Verificado) Realmente son: -Comunicación -Simplicidad
--Retroalimentación -Coraje.
+b) Falso (Verificado)
 76. Decisiones de negocio las toma el cliente:
 -Alcance ¿cuándo debe estar listo el producto para que sea valioso en producción?
 -Prioridad prioriza la incorporación de User.Stories
@@ -387,7 +386,7 @@ b) Falso (Verificado) Realmente son: -Comunicación -Simplicidad
 tener el SW?
 -Fechas de entrega fechas cuando el software funcionando causaría una gran
 diferencia
-a) Verdadero (Verificado) porque es una práctica xp
+a) Verdadero (Verificado)
 b) Falso
 77. Decisiones de negocio las toma el analista
 -Alcance ¿cuándo debe estar listo el producto para que sea valioso en producción?
@@ -408,7 +407,7 @@ b) Falso
 80. Análisis estructurado de Tom DeMarco 1979 & diseño estructurado de Yourdon
 modelo de proceso: iterativo e incremental (híbrido)
 a) Verdadero
-b) Falso (Verificado) modelo de proceso: en cascada
+b) Falso (Verificado)
 81. Mejores prácticas XP:
 El juego de la documentación, una sola entrega, diseño por capas…
 a) Verdadero
@@ -539,12 +538,12 @@ b) Falso
 ● Captura la topología hardware del sistema
 ● Forma parte de las especificaciones de la arquitectura del sistema
 Seleccione una
-a) Verdadero
+a) Verdadero (Verificado)
 b) Falso
 103. El ciclo de vida es el conjunto de etapas de desarrollo del sistema y el modelo de
 proceso el orden y actividades a desarrollar
 a) Verdadero
-b) Falso (Verificado) Modelo de proceso es la estrategia de los métodos
+b) Falso (Verificado) 
 104. Diagrama de desarrollo. Desarrollados por diseñadores, ingenieros de sistemas e
 ingenieros de redes.
 a) Verdadero (Verificado)
@@ -611,7 +610,7 @@ a) Verdadero (Verificado)
 b) Falso
 118. El proceso de desarrollo es solo iterativo
 a) Verdadero
-b) Falso (Verificado) ese solo te delata
+b) Falso (Verificado)
 119. Mejores prácticas XP:
 -Programación de grupos de 10
 -Propiedad de la empresa
@@ -626,7 +625,7 @@ b) Falso (Verificado) productos genéricos de software la organización controla
 especificación
 121. Cuál de los siguientes aspectos de calidad del software proporcionan
 indicadores interactivos externos y de uso
-a) Facilidades de uso (aaaah)
+a) Facilidades de uso
 b) Los Costes
 c) Los Errores y Defectos
 d) Facilidades de Mantenimiento integral (Verificado)
@@ -651,14 +650,13 @@ como:
 - Administración de la fundamentación
 - Administración de la configuración del software
 a) Verdadero
-b) Falso (Verificado) Es del de Actividades de administración y gestión del
-proceso de desarrollo
+b) Falso (Verificado) 
 127. Las metodologías de desarrollo contemplan actividades Técnicas o de Desarrollo
 como:
 - Administración de proyecto
 - Ciclo de vida del software
 a) Verdadero
-b) Falso (Verificadisimo) Es el de Actividades de administración y gestión del proceso de desarrollo
+b) Falso (Verificadisimo)
 128. Las metodologías de desarrollo contemplan actividades Técnicas o de desarrollo
 como:
 - Comunicación
@@ -919,7 +917,7 @@ b) Falso
 175. La robótica (los proyectos que se trabajan en esta área) pueden ser
 consideraciones como software de ingeniería y ciencias.
 a) Verdadero
-b) Falso
+b) Falso (Verificado)
 176. El diseño dentro del XP sigue rigurosamente el principio MS (mantenerlo
 sencillo).
 a) Verdadero (Verificado) Se diseña “la cosa más simple que pueda funcionar”
