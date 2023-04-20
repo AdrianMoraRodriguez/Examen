@@ -145,6 +145,7 @@ void shuffle_questions(vector<Question> &questions) {
 }
 
 int main() {
+    bool has_bad_questions = false;
     vector<Question> questions;
     read_questions(questions, "preguntas.txt");
     shuffle_questions(questions);
@@ -166,7 +167,17 @@ int main() {
             exam_rest += 1;
         }
       }
-      show_results(questions); 
+      show_results(questions);
+      for (int iterator= 0; iterator < n; iterator++) {
+      if (questions[iterator].is_verified == false) {
+        show_question(questions[iterator]);
+        std::cout << "Respuesta correcta: " << questions[iterator].answer << "\n";
+        has_bad_questions = true;
+      }
+    }
+    if (!has_bad_questions) {
+      std::cout << "Muy bien, has tenido 0 errores, cada vez más cerca de aprobar FIS :D\n";
+    }
       return 0;
     }
     cout << "Cuantas preguntas quieres contestar? ";
@@ -199,7 +210,6 @@ int main() {
     }
     show_results(questions);
     std::cout << "Preguntas que ha tenido mal:\n";
-    bool has_bad_questions = false;
     for (int iterator= 0; iterator < n; iterator++) {
       if (questions[iterator].is_verified == false) {
         show_question(questions[iterator]);
