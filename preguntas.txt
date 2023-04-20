@@ -354,7 +354,7 @@ b) Cumpla con las expectativas de los usuarios (Verificado)
 c) Cumpla con los requisitos del usuario
 70. Metodologías ágiles de desarrollo. No es posible planificar cuando el desarrollo
 del software no es predecible
-a) Verdadero (Verificado) Responder a los cambios más que seguir estrictamente una planificación
+a) Verdadero (Verificado)
 b) Falso
 71. Las técnicas son programas que mecanizan los métodos para dar soporte al
 desarrollo
