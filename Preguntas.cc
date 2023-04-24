@@ -55,7 +55,7 @@ void read_questions(vector<Question> &questions, const string &filename) {
             aux = line;
             while (getline(file, line)) {
                 if (line[1] != ')') {
-                    aux = aux + line + " ";
+                    aux = aux + "\n" + line ;
                 } else {
                     question.text = aux;
                     aux = line;

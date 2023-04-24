@@ -334,7 +334,7 @@ a) Verdadero
 b) Falso (Verificadisimo) 
 65. Diagrama de caso de uso son desarrollados por los clientes
 a) Verdadero
-b) Falso (Verificado) Desarrollado por analistas y expertos
+b) Falso (Verificado)
 66. Las decisiones a largo plazo se toman en la dirección con información detallada y
 específica
 a) Verdadero
@@ -363,7 +363,7 @@ b) Falso
 72. El desarrollo como fase del proceso de software incluye las tareas de diseño,
 codificación, pruebas, implantación y mejoras
 a) Verdadero
-b) Falso (Verificado) Planificación, Especificación, Desarrollo, Validación,
+b) Falso (Verificado)
 Evolución
 73. El software es el elemento de principal coste en el desarrollo de un sistema
 informático
@@ -396,7 +396,7 @@ tener el SW?
 -Fechas de entrega fechas cuando el software funcionando causaría una gran
 diferencia
 a) Verdadero
-b) Falso (Verificado) Las decisiones técnicas son los otros
+b) Falso (Verificado)
 78. Las actividades del proceso del software varían dependiendo de la organización y
 del tipo de sistema a desarrollarse
 a) Verdadero (Verificado)
@@ -431,7 +431,7 @@ a) Verdadero (Verificado)
 b) Falso
 85. El Proceso Unificado de Desarrollo, no es un desarrollo basado en componentes.
 a) Verdadero
-b) Falso (Verificado) Es un desarrollo basado en componentes
+b) Falso (Verificado)
 86. El Proceso Unificado de Desarrollo, utiliza UML para desarrollar los esquemas y
 diagramas de un sistema software
 Seleccione una:
@@ -587,16 +587,16 @@ Diagramas de Estructurales
 a)Verdadero (Verificado)
 b) Falso
 114. Diagramas de UML
-Diagramas de Comportamiento
+- Diagramas de Comportamiento
 - Diagrama de Estados
-Diagrama de Actividad
+- Diagrama de Actividad
 a) Verdadero (Verificado)
 b) Falso
 115. Principios:
 -La prioridad principal es entregar el software final
 -Los cambios no están permitidos
 a) Verdadero
-b) Falso (Verificado) Si tenemos en cuenta el Manifiesto de las AMs
+b) Falso (Verificado) 
 116. Clasificación de las metodologías de desarrollo:
 En base a la naturaleza del proyecto
 - Metodologías orientadas a base de datos
@@ -661,7 +661,7 @@ como:
 - Administración de la fundamentación
 - Administración de la configuración del software
 a) Verdadero
-b) Falso (Verificado) Son de Actividades de administración y gestión del proceso de desarrollo
+b) Falso (Verificado)
 129. El modelo de cascada es utilizado en desarrollos bien comprendidos.
 a) Verdadero (Verificado)
 b) Falso
@@ -723,7 +723,7 @@ a) Verdadero (Verificado)
 b) Falso
 140. El sistema solo se puede probar hasta que se haya implementado.
 a) Verdadero
-b) Falso (Verificado) Solo hasta que el sistema se ha producido se puede probar
+b) Falso (Verificado)
 141. La dirección estratégica suele tomar decisiones que están poco formalizadas y
 subjetivas.
 a) Verdadero (Verificado)
@@ -866,7 +866,7 @@ múltiples formas
 Seleccione una:
 a) Verdadero (Verificadisimo)
 b) Falso
-167. IBM desarrollo METRICA 3.
+167. IBM desarrolló METRICA 3.
 Seleccione una:
 a) Verdadero
 b) Falso (Verificadisimo)
@@ -1048,7 +1048,7 @@ b) Falso
 a) Verdadero
 b) Falso (Verificado)
 209. ¿Cuáles de las siguientes pueden ser las dificultades de la confiabilidad del
-software?
+software? (Son la a y la c, no deja seleccionar las dos y probablemente solo da por buena la c)
 Seleccione una o más de una:
 a) Ambiente variable al que hay que adaptarse (Verificado)
 b) La complejidad del software
