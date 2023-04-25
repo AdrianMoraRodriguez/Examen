@@ -439,7 +439,7 @@ a) Verdadero (Verificado)
 b) Falso
 87. El Proceso Unificado de Desarrollo, es sólo iterativo
 a) Verdadero
-b) Falso (no caigo en la trampa) (Verificado) Iterativo e incremental
+b) Falso (Verificado)
 88. Clasificación de las metodologías de desarrollo:
 En base a su agilidad:
 -Pesadas. Burocráticas o ingenieriles
@@ -471,7 +471,7 @@ b) Falso (Verificadisimo)
 -Semana de 40 horas
 -Cliente in situ
 -Estándares de programación
-a) Verdadero (Verificadisimo) Aunque no sale que sean las mejores, son
+a) Verdadero (Verificadisimo)
 prácticas
 b) Falso
 92. Las herramientas CASE (Computer Aided System Engineering): Facilita la
